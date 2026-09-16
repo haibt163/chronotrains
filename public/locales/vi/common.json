@@ -1,0 +1,14 @@
+{
+  "chronotrains": "Chronotrains",
+  "tagline": "Trên bản đồ tương tác này, bạn có thể khám phá khoảng cách có thể di chuyển bằng tàu hỏa trong vòng 5 giờ từ bất kỳ ga tàu nào ở Châu Âu.",
+  "title": "Bạn có thể đi tàu hỏa được bao xa trong 5 giờ?",
+  "close": "Đóng bảng điều khiển",
+  "intro": "Bản đồ này hiển thị khoảng cách bạn có thể di chuyển từ mỗi ga tàu ở Châu Âu trong vòng chưa đầy 5 giờ.",
+  "credits": "Được lấy cảm hứng từ <1>Direkt Bahn Guru</1> tuyệt vời. Dữ liệu dựa trên trang web này, nguồn dữ liệu là Deutsche Bahn.",
+  "helper": "Di chuột qua một ga tàu để xem bạn có thể đi tàu đến đâu trong khung thời gian tương ứng.",
+  "assumptions": "Giả định rằng mỗi lần chuyển tàu mất 20 phút, với tốc độ nhanh hơn một chút so với đi bộ. Do đó, đây nên được hiểu là thời gian di chuyển tối ưu. Việc di chuyển có thể không khả thi theo lịch trình thực tế.",
+  "reachable": "Có thể đến được trong...",
+  "questions": "Có câu hỏi? Liên hệ với tôi trên Twitter: ",
+  "open-source": "Đây là mã nguồn mở và có sẵn trên <1>Github</1>.",
+  "support": "Ủng hộ dự án: <1>ko-fi</1>."
+}
